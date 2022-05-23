@@ -1,5 +1,6 @@
 .container {
   padding: 0 2rem;
+  border: 6px solid rgb(118, 182, 243);
 }
 
 .main {
@@ -113,4 +114,12 @@
     width: 100%;
     flex-direction: column;
   }
+}
+
+.navigate {
+    color: #0070f3;
+    font-weight: 600;
+}
+.navigate:hover {
+  text-decoration: underline;
 }
