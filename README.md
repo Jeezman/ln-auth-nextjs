@@ -60,4 +60,4 @@ Server Running here 👉 https://localhost:5002
 ```
 
 # Blog Post
-The blog article for this repo can be found on Medium
+The blog article for this repo can be found on [Medium](https://medium.com/@tobiadeyemi/d2a023309b81)
